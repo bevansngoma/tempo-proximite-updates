@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://expo.dev/artifacts/eas/WNRDe1GdQFJR4ZIBEA4yN3KLFQItX7lPVV5SxOY2NdE.apk",
+  "apkUrl": "https://expo.dev/artifacts/eas/pYHtWkGZK1DQtPK9kUdenWJNt1pD2cdzJQ4O9kXLtVc.apk",
   "certificateSha256": "ebb291b6f1d2a127a01ac64d8b0234453343df9af122f18fdd50648c4abf196e",
   "packageId": "com.htcrdc.tempoproximite.com",
-  "sha256": "3f9f12d10e9422151b0bc88a94ea7afdeae15f9cdef1e574187c842d6ec974df",
-  "versionCode": 1,
-  "versionName": "0.1.0"
+  "sha256": "c051603506369c5c1162e0977e77a42bbad481a0ff779522764e588e6ca51ff3",
+  "versionCode": 2,
+  "versionName": "0.1.1"
 }
